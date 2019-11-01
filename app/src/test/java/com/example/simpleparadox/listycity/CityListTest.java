@@ -94,10 +94,10 @@ class CityListTest {
         assertEquals(1, cityList.countCities());
     }
 
-    @Test
+    /*@Test
     void participationTest(){
         CityList cityList = mockCityList();
 
         assertTrue(cityList.dummyTest());
-    }
+    }*/
 }
